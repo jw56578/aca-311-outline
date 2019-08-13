@@ -9,5 +9,6 @@
 ## <a name="day5"></a> Day 5. 
 - :file_folder: __Notes__:
     + Use https://www.gearhost.com/ if you don't want to use a credit card
+    + Make sure to pick the MySql database
     + https://www.gearhost.com/documentation/connect-to-a-mysql-database
 ----- 
