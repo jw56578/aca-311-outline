@@ -1,7 +1,8 @@
 ## <a name="day1"></a> Day 1. 
 - :file_folder: __Notes__:
     + [Notes](https://gist.github.com/jw56578/3e92c40701de2f0a440a5e8e27b03534)
-    + [Intro](#intro)
+    + [Slides](https://docs.google.com/presentation/d/1EzJF-7VHM__XFvcUS747W3dOvOFFhLaTS5JPL4OM4ek/edit#slide=id.p)
+    
 
 ----- 
 
