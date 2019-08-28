@@ -5,7 +5,12 @@
     
 
 ----- 
+## <a name="day1"></a> Day 2. 
+- :file_folder: __Notes__:
+    + [Slides](https://docs.google.com/presentation/d/1cdQjJgdFv5ZWTM7zwnslQLfz2stObwZDJWB19qRfaDs/edit#slide=id.p)
+    
 
+----- 
 
 ## <a name="day5"></a> Day 5. 
 - :file_folder: __Notes__:
