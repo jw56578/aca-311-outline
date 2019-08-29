@@ -5,12 +5,22 @@
     
 
 ----- 
-## <a name="day1"></a> Day 2. 
+## <a name="day2"></a> Day 2. 
 - :file_folder: __Notes__:
     + [Slides](https://docs.google.com/presentation/d/1cdQjJgdFv5ZWTM7zwnslQLfz2stObwZDJWB19qRfaDs/edit#slide=id.p)
     
 
 ----- 
+## <a name="day3"></a> Day 3. 
+- :file_folder: __Notes__:
+    + [Slides](https://docs.google.com/presentation/d/1-RxXeZebMgjXe0wYbzTYR9o6ZtMyMzU_AnA3PaMWhUU/edit#slide=id.p)
+    
+
+----- 
+
+
+
+
 
 ## <a name="day5"></a> Day 5. 
 - :file_folder: __Notes__:
