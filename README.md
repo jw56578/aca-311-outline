@@ -17,7 +17,7 @@
     
 
 ----- 
-## <a name="day3"></a> Day 3. 
+## <a name="day4"></a> Day 4. 
 - :file_folder: __Notes__:
     + [Slides](https://docs.google.com/presentation/d/1AlFKNiAVxehbFZp5aq3D-csxgsRqPQ4E2WPjQDq1ZRk/edit)
     
